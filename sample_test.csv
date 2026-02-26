@@ -1,0 +1,2 @@
+Molecule name,SMILES,Predicted pIC50,Docking score,LogP,QED,HIA,PPB,Fub,LipE,MPO Score,Tier,Safety Flags
+TOP-NL009,O=C(CC1=CC2=C(C=CN2)C=C1)NC1=CC(O)=CC=C1,6.500,-9.950,2.030,1.000,0.760,82.740,17.000,4.47,10.8,Tier 2,Hepatotox|Nephrotox
